@@ -2,5 +2,5 @@
 ### Links
 
 
-- Github URL: [https://gbadamosimuibat.github.io/qr-code-component-main/](https://gbadamosimuibat.github.io/qr-code-component-main/)
-https://gbadamosimuibat.github.io/calculator/
+- Github URL: [https://gbadamosimuibat.github.io/calculator/](https://gbadamosimuibat.github.io/calculator/)
+
